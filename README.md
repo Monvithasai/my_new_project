@@ -1,4 +1,4 @@
-🌌 Project Title: “MemoryBridge AI – Reconstructing Lost Memories for Dementia Patients”
+#Project Title: “MemoryBridge AI – Reconstructing Lost Memories for Dementia Patients”
 
 🧠 Concept
 An AI system that reconstructs fragmented or lost memories for dementia patients using a combination of personal data, historical context, and generative storytelling—creating immersive memory experiences that feel familiar and emotionally resonant.
